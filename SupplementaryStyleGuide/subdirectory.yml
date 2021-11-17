@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "subdirectory" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#subdirectory
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  sub-directory

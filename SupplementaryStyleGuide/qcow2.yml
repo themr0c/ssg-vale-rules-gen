@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "QCOW2" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#qcow2
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  qcow2|Qcow2

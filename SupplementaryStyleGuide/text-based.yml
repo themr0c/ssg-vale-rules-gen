@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "text-based" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#text-based
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  text based

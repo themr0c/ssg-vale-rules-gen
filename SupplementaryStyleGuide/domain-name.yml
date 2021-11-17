@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "domain name" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#domain-name
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  domainname|domain-name

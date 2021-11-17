@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "UNIX" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#unix
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Unix|unix|UNIX-like

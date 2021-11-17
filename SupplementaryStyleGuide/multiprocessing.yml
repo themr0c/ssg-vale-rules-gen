@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "multiprocessing" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#multiprocessing
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  multi-processing

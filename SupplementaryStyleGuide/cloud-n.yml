@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "cloud" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#cloud-n
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Cloud

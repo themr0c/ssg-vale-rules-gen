@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "grayscale" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#grayscale
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  gray-scale|gray scale

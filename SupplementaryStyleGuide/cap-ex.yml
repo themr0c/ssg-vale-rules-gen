@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "CapEx" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#cap-ex
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Capex|capex|capEx

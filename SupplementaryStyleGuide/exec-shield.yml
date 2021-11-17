@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Exec-Shield" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#exec-shield
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  

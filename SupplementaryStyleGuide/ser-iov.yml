@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "SR-IOV" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#ser-iov
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  SR IOV

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "shadow utilities" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#shadow-utilities
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Shadow utilities

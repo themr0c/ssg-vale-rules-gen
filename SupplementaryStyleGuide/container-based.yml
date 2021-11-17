@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "container-based" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#container-based
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  container based

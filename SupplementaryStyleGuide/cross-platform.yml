@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "cross-platform" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#cross-platform
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  crossplatform|cross platform

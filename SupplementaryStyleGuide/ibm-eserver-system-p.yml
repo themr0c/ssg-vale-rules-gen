@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "IBM eServer System p" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#ibm-eserver-system-p
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  pSeries

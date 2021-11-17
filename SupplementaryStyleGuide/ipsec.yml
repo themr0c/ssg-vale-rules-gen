@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "IPsec" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#ipsec
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  IPSec

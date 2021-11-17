@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "bimonthly" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#bimonthly
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  bi-monthly

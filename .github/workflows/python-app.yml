@@ -1,0 +1,21 @@
+name: Run Python package
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.9]
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Zip Folder
+        run: zip -r SupplementaryStyleGuide.zip SupplementaryStyleGuide/*.yml -x ".git/*" ".github/*"
+      - name: Upload Release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: "SupplementaryStyleGuide.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}

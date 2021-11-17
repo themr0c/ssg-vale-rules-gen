@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "subcommand" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#subcommand
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  sub-command

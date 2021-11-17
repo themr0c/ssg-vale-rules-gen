@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Ctrl" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#ctrl
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  control key|ctrl

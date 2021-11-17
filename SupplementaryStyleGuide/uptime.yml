@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "uptime" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#uptime
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  up-time|up time

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "need" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#need
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  desire|wish

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "kernel oops" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#kernel-oops
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  oops

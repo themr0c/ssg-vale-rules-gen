@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "S-record" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#s-record
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  s-record|S-Record|s-Record|SREC|or any other variation

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "multitenant" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#multitenant
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  multi-tenant

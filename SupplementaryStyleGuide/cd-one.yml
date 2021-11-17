@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "CD #1" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#cd-one
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  CD 1

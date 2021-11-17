@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Intel Virtualization Technology" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#intel-virtualization-technology
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  VT-i|VT

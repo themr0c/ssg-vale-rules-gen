@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "specific" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#specific
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Linux specific|chip specific|and so on

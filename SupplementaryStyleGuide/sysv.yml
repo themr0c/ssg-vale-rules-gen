@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "SysV" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#sysv
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Sys V|System V

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "WCA" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#wca
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  wca

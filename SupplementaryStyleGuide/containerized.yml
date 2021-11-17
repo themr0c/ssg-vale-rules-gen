@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "containerized" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#containerized
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  containerised

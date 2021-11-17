@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "RAM" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#ram
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Ram|ram

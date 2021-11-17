@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "command language" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#command-language
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  command-language

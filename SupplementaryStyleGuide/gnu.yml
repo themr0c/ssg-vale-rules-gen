@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "GNU" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#gnu
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Gnu|gnu

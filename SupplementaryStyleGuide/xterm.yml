@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "xterm" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#xterm
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Xterm

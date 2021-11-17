@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "operating system" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#operating-system
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  OS|Operating System

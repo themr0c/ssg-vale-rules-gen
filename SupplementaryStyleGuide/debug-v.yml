@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "debug" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#debug-v
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  de-bug

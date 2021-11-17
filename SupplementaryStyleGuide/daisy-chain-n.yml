@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "daisy chain" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#daisy-chain-n
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  daisy-chain|daisychain

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "StarOffice" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#staroffice
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Star|Staroffice|Star Office

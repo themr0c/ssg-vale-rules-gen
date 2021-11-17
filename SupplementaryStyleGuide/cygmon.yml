@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Cygmon" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#cygmon
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  CygMon|cygmon|CYGMON

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "su" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#su
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  SU

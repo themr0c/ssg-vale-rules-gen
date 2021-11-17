@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "hot add" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#hot-add
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  hotadd|hot-add

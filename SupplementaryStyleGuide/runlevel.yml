@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "runlevel" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#runlevel
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  run level|run-level

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "hot swap" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#hot-swap
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  hotswap|hot-swap

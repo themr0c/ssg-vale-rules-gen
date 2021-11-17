@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "JVM" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#jvm
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Jvm|jvm

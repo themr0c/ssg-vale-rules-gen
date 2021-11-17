@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "RedBoot" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#redboot
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Redboot|Red Boot|red

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "vNUMA node" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#vnuma
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  vnuma|VNUMA

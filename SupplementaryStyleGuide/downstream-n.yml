@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "downstream" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#downstream-n
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  down-stream|down stream

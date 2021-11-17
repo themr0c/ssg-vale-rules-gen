@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "help desk" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#help-desk
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  helpdesk|help-desk

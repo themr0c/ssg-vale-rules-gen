@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "UltraSPARC" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#UltraSPARC
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  ULTRASPARC|UltraSparc|or other variations.

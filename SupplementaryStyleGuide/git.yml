@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Git" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#git
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  git|GIT

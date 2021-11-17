@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Source-Navigator^TM^" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#source-navigator
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Source Navigator

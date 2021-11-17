@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "HP ProLiant" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#hp-proliant
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  HP Proliant

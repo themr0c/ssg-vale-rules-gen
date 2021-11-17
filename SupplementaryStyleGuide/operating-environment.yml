@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "operating environment" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#operating-environment
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Operating Environment

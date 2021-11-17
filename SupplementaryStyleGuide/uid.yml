@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "UID" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#uid
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  uid

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "CD writer" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#cd-writer
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  CD burner|burner

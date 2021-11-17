@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Intel(R) EP80579 Integrated Processor" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#intel-ep80579-integrated-processor
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Tolapai|Intel Tolapai

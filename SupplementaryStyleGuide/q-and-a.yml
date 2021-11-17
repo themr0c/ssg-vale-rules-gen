@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Q and A" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#q-and-a
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  q & a|q&a Q & A|Q&A 

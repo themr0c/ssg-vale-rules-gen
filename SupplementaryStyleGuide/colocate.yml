@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "colocate" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#colocate
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  co-locate|collocate

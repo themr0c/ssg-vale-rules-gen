@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "mouse button" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#mouse-button
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  mouse-button|mousebutton

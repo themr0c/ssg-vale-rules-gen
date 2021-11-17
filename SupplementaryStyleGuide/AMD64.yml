@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "AMD64" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#AMD64
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Hammer|x86_64|x86-64|x64|64-bit x86

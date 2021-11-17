@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "FQDN" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#fqdn
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Fqdn|fqdn

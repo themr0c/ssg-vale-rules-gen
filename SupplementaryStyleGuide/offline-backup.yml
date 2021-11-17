@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "offline backup" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#offline-backup
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  cold backup

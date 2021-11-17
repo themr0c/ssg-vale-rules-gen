@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "host group" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#host-group
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  hostgroup

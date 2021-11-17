@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "user-space" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#user-space-adj
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  userspace

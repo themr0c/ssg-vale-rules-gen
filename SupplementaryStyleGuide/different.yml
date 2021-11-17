@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "different from" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#different
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  different than|different to

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "auto-detect" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#auto-detect
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  autodetect

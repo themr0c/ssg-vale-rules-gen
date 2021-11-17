@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "hot plug" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#hot-plug
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  hotplug|hot-plug

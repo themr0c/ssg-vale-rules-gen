@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "server cluster" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#server-cluster
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  computer farm|computer ranch

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "thin-provisioned" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#thin-provisioned
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  thin-provisioned|thinly provisioned|thinly-provisioned

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "SSL/TLS" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#ssl-tls
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  SSL|TLS|TLS SSL

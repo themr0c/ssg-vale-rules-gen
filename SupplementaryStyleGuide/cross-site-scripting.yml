@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "cross-site scripting" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#cross-site-scripting
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  cross site scripting

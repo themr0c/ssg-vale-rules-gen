@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Objective C" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#objective-c
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Objective-C

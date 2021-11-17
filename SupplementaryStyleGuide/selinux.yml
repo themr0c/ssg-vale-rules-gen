@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "SELinux" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#selinux
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  SE-Linux|S-E Linux|SE Linux|selinux

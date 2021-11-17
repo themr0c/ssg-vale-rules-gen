@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "subscription" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#subscription
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  entitlement

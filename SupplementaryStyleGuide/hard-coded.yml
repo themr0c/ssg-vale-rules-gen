@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "hard-coded" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#hard-coded
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  hardcoded

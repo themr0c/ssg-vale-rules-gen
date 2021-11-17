@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "insecure" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#insecure
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  nonsecure|non-secure

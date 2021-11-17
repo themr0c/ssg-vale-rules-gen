@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Disk Druid" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#disk-druid
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Disk druid|disk druid|diskdruid

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "subpackage" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#subpackage
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  sub-package

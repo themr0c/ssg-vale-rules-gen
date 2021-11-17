@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "PostScript" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#postscript
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Postscript

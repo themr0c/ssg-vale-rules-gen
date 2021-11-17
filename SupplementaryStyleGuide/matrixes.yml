@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "matrixes" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#matrixes
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  matrices

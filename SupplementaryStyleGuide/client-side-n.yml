@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "client side" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#client-side-n
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  client-side

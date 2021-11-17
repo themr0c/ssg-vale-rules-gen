@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "OpEx" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#opex
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Opex|Opex|OPEX|opEx

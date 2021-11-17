@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Red Hat Network Satellite Server" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#red-hat-network-satellite-server
+ignorecase: true
+nonword: true
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Red Hat Satellite \(Server\)

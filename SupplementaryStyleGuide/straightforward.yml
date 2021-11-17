@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "straightforward" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#straightforward
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  straight forward|straight-forward

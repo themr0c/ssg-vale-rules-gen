@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "upgrade" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#upgrade
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  up-grade|up grade

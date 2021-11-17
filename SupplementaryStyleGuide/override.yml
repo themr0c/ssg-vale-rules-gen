@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "override" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#override
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  over-ride|over ride

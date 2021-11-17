@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "menu-driven" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#menu-driven
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  menu driven|menudriven

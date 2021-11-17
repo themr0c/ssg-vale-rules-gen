@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "share name" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#share-name
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  sharename|Sharename

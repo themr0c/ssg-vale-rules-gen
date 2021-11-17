@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "MS-DOS" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#ms-dos
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  ms-dos|MSDOS|msdos

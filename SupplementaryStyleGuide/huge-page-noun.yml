@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "huge page" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#huge-page-noun
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  large page|super page

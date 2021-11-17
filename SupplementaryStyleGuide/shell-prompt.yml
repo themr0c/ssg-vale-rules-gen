@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "shell prompt" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#shell-prompt
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  command prompt|terminal|shell

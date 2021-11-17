@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "data mirroring" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#data-mirroring
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  datamirroring|data-mirroring

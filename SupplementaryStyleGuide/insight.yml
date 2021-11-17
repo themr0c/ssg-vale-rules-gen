@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Insight" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#insight
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  GDBTK

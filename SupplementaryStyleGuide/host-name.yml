@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "host name" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#host-name
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  hostname

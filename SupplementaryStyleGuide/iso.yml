@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "ISO" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#iso
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  iso

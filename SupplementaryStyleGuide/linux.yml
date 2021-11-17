@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Linux" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#linux
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  LINUX|linux

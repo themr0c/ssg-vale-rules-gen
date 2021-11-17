@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Btrfs" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#btrfs
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  btrfs

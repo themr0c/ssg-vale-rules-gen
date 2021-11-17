@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "roll out" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#roll-out
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  rollout

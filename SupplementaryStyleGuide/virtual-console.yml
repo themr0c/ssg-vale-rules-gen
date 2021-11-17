@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "virtual console" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#virtual-console
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  virtual-console|Virtual Console

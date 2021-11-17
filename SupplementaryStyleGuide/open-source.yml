@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "open source" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#open-source
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  open-source|OpenSource|opensource

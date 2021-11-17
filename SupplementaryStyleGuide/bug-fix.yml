@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "bug fix" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#bug-fix
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  bugfix

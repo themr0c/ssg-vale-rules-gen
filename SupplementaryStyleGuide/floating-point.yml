@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "floating point" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#floating-point
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  floating-point

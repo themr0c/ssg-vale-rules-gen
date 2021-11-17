@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "pop-up" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#popup
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  popup|Pop-up

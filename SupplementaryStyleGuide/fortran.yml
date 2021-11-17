@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Fortran" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#fortran
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  fortran

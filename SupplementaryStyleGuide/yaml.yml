@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "YAML" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#yaml
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  yaml

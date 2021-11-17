@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "JBoss Community" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#jboss-community
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  JBoss.org

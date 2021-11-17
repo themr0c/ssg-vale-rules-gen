@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "cd" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#cd-command
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  CD

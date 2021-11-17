@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "upstream" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#upstream-n
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  up-stream|up stream

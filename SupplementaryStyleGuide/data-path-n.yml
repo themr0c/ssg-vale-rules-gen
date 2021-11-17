@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "data path" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#data-path-n
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  datapath

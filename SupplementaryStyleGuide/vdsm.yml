@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "VDSM" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#vdsm
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Virtual Desktop Server Management

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "download" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#download-v
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  down-load|down load

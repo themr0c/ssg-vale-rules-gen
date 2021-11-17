@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "boot disk" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#boot-disk
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  boot diskette

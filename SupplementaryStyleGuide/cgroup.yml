@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "cgroup" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#cgroup
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  CGroup|c group

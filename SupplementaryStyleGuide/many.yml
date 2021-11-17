@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "many" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#many
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  lots of|bunches of

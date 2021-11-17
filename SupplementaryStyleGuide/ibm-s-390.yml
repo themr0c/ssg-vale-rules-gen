@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "IBM S/390" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#ibm-s-390
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  S 390|S90

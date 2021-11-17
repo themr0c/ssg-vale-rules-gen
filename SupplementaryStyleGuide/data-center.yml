@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "data center" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#data-center
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  datacenter|data-center|data centre|datacentre

@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "comma-delimited" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#comma-delimited
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  comma delimited|commadelimited

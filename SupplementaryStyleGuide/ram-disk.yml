@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "RAM disk" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#ram-disk
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  RAMdisk|ramdisk|RAM-disk

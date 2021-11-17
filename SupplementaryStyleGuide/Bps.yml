@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "Bps" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#Bps
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  bps

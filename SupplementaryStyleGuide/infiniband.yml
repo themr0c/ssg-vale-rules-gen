@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "InfiniBand" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#infiniband
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Open InfiniBand|Infiniband

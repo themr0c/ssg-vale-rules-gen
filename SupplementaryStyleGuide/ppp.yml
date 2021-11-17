@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "PPP" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#ppp
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  Ppp|ppp

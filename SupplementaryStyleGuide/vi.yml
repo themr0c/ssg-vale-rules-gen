@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "vi" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#vi
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  VI

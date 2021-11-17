@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "ISeries" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#iseries
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  iSeries

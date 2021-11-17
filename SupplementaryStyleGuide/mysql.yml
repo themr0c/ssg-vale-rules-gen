@@ -1,0 +1,10 @@
+---
+extends: existence
+message: Use "MySQL" instead of '%s'."
+link: https://redhat-documentation.github.io/supplementary-style-guide/#mysql
+ignorecase: true
+nonword: false
+level: error
+source: SupplementaryStyleGuide
+tokens:
+    -  MYSQL|mySQL
