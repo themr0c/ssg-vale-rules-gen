@@ -1,5 +1,5 @@
 # ssg-vale-rules-gen
-Python script to generate Vale linting rules from word usage guidance in the Red Hat Supplementary Style Guide. These rules are used in the [Vale at Red Hat project](https://github.com/Vale-at-Red-Hat).
+Python script to generate Vale linting rules from word usage guidance in the Red Hat Supplementary Style Guide. These rules are used in the [Vale at Red Hat project](https://github.com/redhat-documentation/vale-at-red-hat).
 
 ## Building output
 1. Run the python build locally, and commit all changes.
